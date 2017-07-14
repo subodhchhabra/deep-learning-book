@@ -1,5 +1,5 @@
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1.1.0-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1.2.0-blue.svg)
 
 # Model Zoo
 
@@ -17,6 +17,10 @@ A collection of standalone TensorFlow models in Jupyter Notebooks
 - [Convolutional Neural Network](convnet.ipynb)
 - [Convolutional Neural Network VGG-16](convnet-vgg16.ipynb)
 
+## Metric Learning
+
+- [Siamese Network with Multilayer Perceptrons](siamese-1.ipynb)
+
 ## Autoencoders
 
 - [Autoencoder](autoencoder.ipynb)
@@ -32,3 +36,4 @@ A collection of standalone TensorFlow models in Jupyter Notebooks
 
 - [Saving and Loading Trained Models -- from TensorFlow Checkpoint Files and NumPy NPZ Archives](saving-and-reloading-models.ipynb)
 - [Chunking an Image Dataset for Minibatch Training using NumPy NPZ Archives](image-data-chunking-npz.ipynb)
+- [Storing an Image Dataset for Minibatch Training using HDF5](image-data-chunking-hdf5.ipynb)
