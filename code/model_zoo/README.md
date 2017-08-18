@@ -1,5 +1,5 @@
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1.2.0-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1.3.0-blue.svg)
 
 # Model Zoo
 
@@ -37,3 +37,5 @@ A collection of standalone TensorFlow models in Jupyter Notebooks
 - [Saving and Loading Trained Models -- from TensorFlow Checkpoint Files and NumPy NPZ Archives](saving-and-reloading-models.ipynb)
 - [Chunking an Image Dataset for Minibatch Training using NumPy NPZ Archives](image-data-chunking-npz.ipynb)
 - [Storing an Image Dataset for Minibatch Training using HDF5](image-data-chunking-hdf5.ipynb)
+- [Using Input Pipelines to Read Data from TFRecords Files](tfrecords.ipynb)
+- [Using Queue Runners to Feed Images Directly from Disk](file-queues.ipynb)
