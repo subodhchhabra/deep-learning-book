@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.org/rasbt/deep-learning-book.svg?branch=master)](https://travis-ci.org/rasbt/deep-learning-book)
-![Python 2.7](https://img.shields.io/badge/Python-2.7-blue.svg)
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1.3.0-blue.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 [![Mailing List](https://img.shields.io/badge/-Mailing%20List-lightgrey.svg)](https://groups.google.com/forum/#!forum/ann-and-dl-book)
 
@@ -11,7 +8,7 @@ Repository for the book *Introduction to Artificial Neural Networks and Deep Lea
 
 ---
 
-**Deep learning is not just the talk of the town among tech folks. Deep learning allows us to tackle complex problems, training artificial neural networks to recognize complex patterns for image and speech recognition. In this book, we'll continue where we left off in [*Python Machine Learning*](https://github.com/rasbt/python-machine-learning-book) and implement deep learning algorithms in [TensorFlow](https://www.tensorflow.org).**
+**Deep learning is not just the talk of the town among tech folks. Deep learning allows us to tackle complex problems, training artificial neural networks to recognize complex patterns for image and speech recognition. In this book, we'll continue where we left off in [*Python Machine Learning*](https://github.com/rasbt/python-machine-learning-book) and implement deep learning algorithms in [PyTorch](https://pytorch.org).**
 
 ---
 
@@ -32,7 +29,7 @@ Paperback: est. 2018
 
 - 01 - Introduction
 
-- 02 - The Perceptron [[Code Notebook](code/ch02_perceptron/ch02_perceptron.ipynb)]
+- 02 - The Perceptron 
 
 - 03 - Optimizing Cost Functions with Gradient Descent
 
@@ -58,24 +55,33 @@ Paperback: est. 2018
 
 - 14 - Reinforcement Learning
 
-- Appendix A: Mathematical Notation [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_a_math_notation.pdf)] [[EPUB](https://sebastianraschka.com/pdf/books/dlb/appendix_a_math_notation.epub)]
+#### Supporting Material
 
-- Appendix B: Algebra Basics [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_b_algebra.pdf)] [[EPUB](https://sebastianraschka.com/pdf/books/dlb/appendix_b_algebra.epub)]
+- Appendix A: Mathematical Notation [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_a_math_notation.pdf)]
 
+- Appendix B: Algebra Basics [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_b_algebra.pdf)]
 
 - Appendix C: Linear Algebra Essentials
 
-- Appendix D: Calculus and Differentiation Primer [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_d_calculus.pdf)] [[EPUB](https://sebastianraschka.com/pdf/books/dlb/appendix_d_calculus.epub)]
+- Appendix D: Calculus and Differentiation Primer [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_d_calculus.pdf)]
 
-- Appendix E: Python Setup
+- Appendix E: Probability Theory Overview
 
-- Appendix F: Introduction to NumPy [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.pdf)] [[EPUB](https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.epub)] [[Code Notebook](code/appendix_f_numpy-intro/appendix_f_numpy-intro.ipynb)]
+- Appendix F: Notational Conventions Reference
 
-- Appendix G: TensorFlow Basics [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_g_tensorflow.pdf)] [[EPUB](https://sebastianraschka.com/pdf/books/dlb/appendix_g_tensorflow.epub)] [[Code Notebook](code/appendix_g_tensorflow-basics/appendix_g_tensorflow-basics.ipynb)]
+- Appendix G: Python Setup
 
-- Appendix H: Cloud Computing [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_h_cloud-computing.pdf)] [[EPUB](https://sebastianraschka.com/pdf/books/dlb/appendix_h_cloud-computing.epub)]
+- Appendix H: Introduction to NumPy [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_numpy-intro.pdf)] [[Code Notebook](code/appendix_h_numpy-intro/appendix_numpy-intro.ipynb)]
 
-- [Model Zoo](code/model_zoo): A collection of standalone TensorFlow models in Jupyter Notebooks
+- Appendix I: PyTorch Basics 
+
+- Appendix I (alt.): TensorFlow Basics [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_g_tensorflow.pdf)] [[Code Notebook](code/_old-material/appendix_tensorflow-basics/appendix_tensorflow-basics.ipynb)]
+
+- Appendix J: Cloud Computing [[PDF](https://sebastianraschka.com/pdf/books/dlb/appendix_cloud-computing.pdf)]
+
+#### Model Zoo
+
+- **[Model Zoo: A collection of standalone TensorFlow and PyTorch models in Jupyter Notebooks](code/model_zoo)**
 
 ---
 
